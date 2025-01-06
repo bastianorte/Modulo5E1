@@ -20,7 +20,7 @@ const ApiDoctores = () => {
 
 
         const genero = ['m','f']
-        const especialidades = ['Cardiologia', 'Pediatria', 'Neurologia']
+        const especialidades = ['Cardiología', 'Pediatría', 'Neurología, Dermatología']
 
         const jsonData = await response.json();
         const doctores = jsonData.map(user=> {

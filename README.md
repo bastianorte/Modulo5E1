@@ -1,11 +1,11 @@
-# Evaluacion Modulo 4 Ejercicio 3 
+# Evaluacion Modulo 5 Ejercicio 1
 
 ## 📖 Descripción
-En este ejercicio práctico, los estudiantes aplicarán todo lo aprendido sobre ReactJS para crear
-un sistema completo para el hospital. Implementarán componentes reutilizables, optimizarán
-el rendimiento, y manejarán interacciones complejas con datos a través de APIs. Todas las
-vistas del sistema del hospital (Home, Servicios, Equipo Médico, Citas) deberán integrar
-componentes avanzados y técnicas de optimización de ReactJS.
+En este proyecto, los estudiantes deberán implementar el consumo de una API para obtener y
+mostrar datos del sistema del hospital, como la información de doctores o servicios médicos.
+Utilizando useEffect y useState, se espera que realicen peticiones asíncronas, gestionen el
+estado y manejen los errores de manera eficiente. Podrán utilizar Fetch API o Axios según su
+preferencia.
 
 ![Inicio](public/assets/vista.png)
 
@@ -57,13 +57,13 @@ componentes avanzados y técnicas de optimización de ReactJS.
 Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/bastianorte/Modulo4Ejercicio3.git
+git clone https://github.com/bastianorte/Modulo5E1.git
 ```
 
 Navega hasta el directorio del proyecto:
 
 ```bash
-cd Modulo4Ejercicio3
+cd Modulo5E1
 ```
 
 Instala las dependencias:
