@@ -9,7 +9,7 @@ preferencia.
 
 ![Inicio](public/assets/vista.png)
 
-## 🔴 Porque elegi Fetch API para el Consumo de la API
+## 🔴 Porque elegí Fetch API para el Consumo de la API
 
 Fetch API tiene algunas ventajas por sobre Axios como son 
 
@@ -17,7 +17,6 @@ Fetch API tiene algunas ventajas por sobre Axios como son
 * Facilita el manejo de respuestas asíncronas.
 * Es más ligero al no requerir dependencias externas
 * Soporta de manera nativa los métodos como GET, POST, PUT, DELETE, etc.
-* Se tiene mas control en la respuesta a formatos como JSON o texto.
 
 Para este proyecto, no se requieren algunas de las características adicionales que ofrece Axios, como el manejo de errores HTTP o la compatibilidad con navegadores desactualizados, como Internet Explorer.
 
